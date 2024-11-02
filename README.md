@@ -38,3 +38,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=valdeviram&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ValDEViram)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valdeviram&theme=material-palenight)](https://github.com/ValDEViram)
+</div>
