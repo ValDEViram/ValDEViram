@@ -3,25 +3,21 @@
 <br />
 <br />
 
-**User experience** ***Enthusiast***.
+**Web Development** ***Enthusiast***.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
-
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I am a software development student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn new technologies, frameworks. I love to build new projects innovative, creative, and fun.
 - 🌱 I’m currently learning ...
   - React
   - Angular
   - Node.js
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in Frontend end Web Development.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Email me at [jesusvalvir0354@gmail.com](mailto:jesusvalvir0354@gmail.com).
 
-
-<br />
-<br />
+<br/>
 
 ## My Skills Include
 
