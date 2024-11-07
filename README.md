@@ -38,6 +38,6 @@ I am a software development student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valdeviram&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ValDEViram)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valdeviram&theme=material-palenight)](https://github.com/ValDEViram)
+[![](https://github-readme-stats.vercel.app/api?username=jevaldev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jevaldev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jevaldev&theme=material-palenight)](https://github.com/jevaldev)
 </div>
